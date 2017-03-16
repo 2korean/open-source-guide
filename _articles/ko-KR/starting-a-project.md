@@ -139,22 +139,22 @@ image: /assets/images/cards/beginner.png
 
 여러분이 오픈 소스를 관리하는데 있어서 법적인 측면을 고려하거나 다른 질문이 있다면 다음의 [우리가 여러분을 보호합니다.](../legal/)를 읽어보도록 합니다.
 
-### Writing a README
+### README 작성하기
 
-READMEs do more than explain how to use your project. They also explain why your project matters, and what your users can do with it.
+README 파일은 여러분의 프로젝트를 어떻게 사용하는 지 설명하는 것 보다 더 많은 것을 합니다. 이 파일은 왜 당신의 프로젝트가 중요한 지 여러분의 프로젝트 사용자가 그것을 통해 무엇을 할 수 있는지 설명을 해줍니다.
 
-In your README, try to answer the following questions:
+여러분의 README 파일 안에 다음의 질문들에 대한 대답을 쓰도록 해보세요:
 
-* What does this project do?
-* Why is this project useful?
-* How do I get started?
-* Where can I get more help, if I need it?
+* 이 프로젝트는 무엇을 하는 것인가?
+* 왜 이 프로젝트가 유용한가?
+* 어떻게 시작할 수 있는가?
+* 필요하다면 어디서 도움을 받을 수 있는가?
 
-You can use your README to answer other questions, like how you handle contributions, what the goals of the project are, and information about licenses and attribution. If you don't want to accept contributions, or your project is not yet ready for production, write this information down.
+여러분은 README 파일을 여러분이 어떻게 기부를 처리하는 지, 프로젝트의 목표가 무엇인지 그리고 라이센스와 속성에 대한 것같은 다른 질문들에 대한 대답을 하기 위해서 사용할 수 도 있습니다. 여러분이 코드 기부에 대해서 받아들이고 싶지 않거나 여러분의 프로젝트가 아직 운영 환경에 대한 준비가 되어있지 않다면 이러한 정보들을 쓰도록 합니다.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars0.githubusercontent.com/u/168572?v=3&s=460" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+  좋은 문서는 더 많은 유저들, 더 적은 지원 요처으 더 많은 기부자들을 의미한다. (...) 당신의 독자들은 당신과 다르다는 점을 기억하라. 완전히 다른 경험을 가진 사람들이 프로젝트에 참여할 것이다. 
   <p markdown="1" class="pquote-credit">
 — @limedaring, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
   </p>
