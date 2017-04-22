@@ -272,28 +272,28 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project has a LICENSE file with an open source license
+    프로젝트는 오프 소스 라이센스를 담은 LICENCE 파일을 가지고 있습니다
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+    프로젝트는 기본적인 문서를 가지고 있습니다(README, CONTRIBUTING, CODE_OF_CONDUCT)
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox3" class="overflow-hidden d-block text-normal">
-    The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing project or infringe on trademarks
+    이름은 기억하기 쉬우며 프로젝트가 뭘 하는지 아이디어를 제공하고 이미 존재하고 있는 프로젝트와 이 같거나 트레이드 마크에 대해서 법적 위반을 하지 않습니다
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox4" class="overflow-hidden d-block text-normal">
-    The issue queue is up-to-date, with issues clearly organized and labeled
+    이슈 순서는 최신화 되었으며 이슈들은 명확하게 분류되고 레이블링 되었습니다
   </label>
 </div>
 
@@ -302,65 +302,65 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project uses consistent code conventions and clear function/method/variable names
+    프로젝트는 일관된 코드 컨벤션을 따르며 명확한 함수/메소드/변수 명을 사용합니다
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox6" class="overflow-hidden d-block text-normal">
-    The code is clearly commented, documenting intentions and edge cases
+    코드에는 명확하게 코멘트가 작성되었으며 목적과 명확한 예를 문서화 하고 있습니다
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox7" class="overflow-hidden d-block text-normal">
-    There are no sensitive materials in the revision history, issues, or pull requests (ex. passwords or other non-public information)
+    리비전 히스토리,이슈들 혹은 pull request 들에는 민감한 사항들은 없습니다. ( ex. 패스워드 혹은 다른 대외비 정보들 )
   </label>
 </div>
 
 **People**
 
-If you're an individual:
+여러분이 개인이라면 :
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox8" class="overflow-hidden d-block text-normal">
-  You've talked to the legal department and/or understand the IP and open source policies of your company (if you're an employee somewhere)
+  여러분은 법률부서와 이야기를 한적이 있고/있거나 IP를 이해하고 여러분이 다니는 회사의 오픈소스 정책을 이해하고 있습니다 (여러분이 어디에 고용되어있다면)
   </label>
 </div>
 
-If you're a company or organization:
+여러분이 회사이거나 조직이라면 :
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox9" class="overflow-hidden d-block text-normal">
-    You've talked to your legal department
+    여러분의 여러분의 법률부서와 대화를 한적이 있습니다
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    You have a marketing plan for announcing and promoting the project
+    여러분은 프로젝트를 홍보하고 알리기 위한 마케팅 플랜을 가지고 있습니다
   </label>
 </div>
 
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+    누군가는 커뮤니티 상호작용을(이슈에 응답하기, 코드 리뷰하기 와 pull requests 머징하기 등 ) 관리하기 위하여 헌신적으로 일을 합니다.
   </label>
 </div>
 
 <div class="clearfix mb-4">
   <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
+    적어도 두 사람은 관리자 권한으로 프로젝트에 접근이 가능해야합니다
   </label>
 </div>
 
-## You did it!
+## 여러분은 해냈습니다!You did it!
 
-Congratulations on open sourcing your first project. No matter the outcome, working in public is a gift to the community. With every commit, comment, and pull request, you're creating opportunities for yourself and for others to learn and grow.
+여러분의 첫 프로젝트를 오픈소스화 한 것을 축하드립니다. 결과가 어떻게 됐든 열린 공간에서 일을 하는것은 커뮤니티에게는 큰 축복입니다. 모든 커밋과 코멘트와 pull request 와 함께 여러분은 여러분들 자신과 다른 사람들이 배우고 자랄 수 있는 기회를 만들 것 입니다.
